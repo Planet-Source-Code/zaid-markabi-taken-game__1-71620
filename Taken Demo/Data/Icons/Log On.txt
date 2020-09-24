@@ -1,0 +1,85 @@
+12-08-2008 20:04:27 | TVUTIL62 : Version 6 Revision 100 
+12-08-2008 20:04:27 | TVUTIL62 File Path C:\WINDOWS\system32\tvutil62.dll
+12-08-2008 20:04:27 | VENDOR INFO : Video card :SiS M650_651_650_740 / 4153
+12-08-2008 20:04:27 | INITIALIZE : Starting Engine version 0.6.0 rc3 * LIMITED VERSION * 
+12-08-2008 20:04:27 | DEVICE INIT : Create the device with 545x361 ane the DX8 format 22 / Depth Buffer : 32
+12-08-2008 20:04:27 | DEVICE INIT : Your device supports Single pass Multitexturing. Pixel Shaders & Lightmapping will use it
+12-08-2008 20:04:27 | DEVICE INIT : W-Buffer supported.
+12-08-2008 20:04:27 | DEVICE INIT : SOFTWARE VERTEX PROCESSING
+12-08-2008 20:04:27 | VIEWPORT MANAGER : Main viewport initialization
+12-08-2008 20:04:27 | VIEWPORT MANAGER : Main viewport initialized (545x361)
+12-08-2008 20:04:27 | DEVICE INIT : Average Free Texture memory : 71 MB
+12-08-2008 20:04:27 | DEVICE INIT : Device initialized without problem.
+12-08-2008 20:04:27 | CAMERA FACTORY : Initialized
+12-08-2008 20:04:27 | DEVICE INIT : Create Matrices
+12-08-2008 20:04:27 | DEVICE INIT : Viewport size (545 361)
+12-08-2008 20:04:27 | DEVICE INIT : Set the viewport...
+12-08-2008 20:04:27 | DEVICE INIT : Initialize Vertex shaders
+12-08-2008 20:04:27 | MD2 SYSTEM : Preparing md2 vertex shader
+12-08-2008 20:04:27 | MD2 SYSTEM : MD2 Vertex Shader created.
+12-08-2008 20:04:27 | MDL SYSTEM : Vertex Shader created.
+12-08-2008 20:04:27 | TEXTURE REQUIREMENTS CHECKING : D3DFMT_R5G6B5 : Yes
+12-08-2008 20:04:27 | TEXTURE REQUIREMENTS CHECKING : D3DFMT_A1R5G6B5 : Yes
+12-08-2008 20:04:27 | DEVICE INIT : DOT3 Bumpmapping supported
+12-08-2008 20:04:27 | DEVICE INIT : Initialization finished ...
+12-08-2008 20:04:27 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Stand1.png ('Stand1')
+12-08-2008 20:04:28 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Stand1.png ('Stand2')
+12-08-2008 20:04:28 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Stand2.png ('StandB1')
+12-08-2008 20:04:29 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Stand2.png ('StandB2')
+12-08-2008 20:04:30 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Stand3.png ('StandC1')
+12-08-2008 20:04:31 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Stand3.png ('StandC2')
+12-08-2008 20:04:31 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Jump.png ('Jump1')
+12-08-2008 20:04:32 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Jump.png ('Jump2')
+12-08-2008 20:04:33 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Kick.png ('Kick1')
+12-08-2008 20:04:34 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Kick.png ('Kick2')
+12-08-2008 20:04:34 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Walk1.png ('Walk11')
+12-08-2008 20:04:35 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Stand1.png ('Walk12')
+12-08-2008 20:04:35 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Walk2.png ('Walk13')
+12-08-2008 20:04:36 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Walk1.png ('Walk21')
+12-08-2008 20:04:37 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Stand1.png ('Walk22')
+12-08-2008 20:04:37 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Walk2.png ('Walk23')
+12-08-2008 20:04:38 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\KickB.png ('KickB1')
+12-08-2008 20:04:38 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\KickB.png ('KickB2')
+12-08-2008 20:04:39 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Die.png ('Die1')
+12-08-2008 20:04:40 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Die.png ('Die2')
+12-08-2008 20:04:41 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Smack1.png ('Smack11')
+12-08-2008 20:04:42 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Smack2.png ('Smack12')
+12-08-2008 20:04:42 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Smack3.png ('Smack13')
+12-08-2008 20:04:43 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Smack4.png ('Smack14')
+12-08-2008 20:04:44 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Yazan\Smack5.png ('Smack15')
+12-08-2008 20:04:45 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Smack1.png ('Smack21')
+12-08-2008 20:04:45 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Smack2.png ('Smack22')
+12-08-2008 20:04:46 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Smack3.png ('Smack23')
+12-08-2008 20:04:47 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Smack4.png ('Smack24')
+12-08-2008 20:04:48 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Zaid\Smack5.png ('Smack25')
+12-08-2008 20:04:48 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\Floor.png ('Floor')
+12-08-2008 20:04:48 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\sky_back.JPG ('sky_back')
+12-08-2008 20:04:48 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\sky_front.JPG ('sky_front')
+12-08-2008 20:04:49 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\sky_left.JPG ('sky_left')
+12-08-2008 20:04:49 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\sky_right.JPG ('sky_right')
+12-08-2008 20:04:49 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\sky_top.JPG ('sky_top')
+12-08-2008 20:04:49 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\snow.dds ('snow')
+12-08-2008 20:04:49 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\KO.png ('KO')
+12-08-2008 20:04:49 | TEXTURE FACTORY 2 : Loading texture C:\Bekken\Data\Room\DmOh.png ('DmOh')
+12-08-2008 20:04:49 | PARTICLE : CreateBillboard System :1000 particles
+12-08-2008 20:04:49 | SCREEN 2D TEXT INTERFACE : Initialized
+12-08-2008 20:04:49 | RESET DEVICE : Start
+12-08-2008 20:04:49 | RESET DEVICE : Lost all
+12-08-2008 20:04:49 | RESET DEVICE : Reset done
+12-08-2008 20:04:49 | RESET DEVICE : Reset OK, reiniting
+12-08-2008 20:04:49 | MD2 SYSTEM : Preparing md2 vertex shader
+12-08-2008 20:04:49 | MD2 SYSTEM : MD2 Vertex Shader created.
+12-08-2008 20:04:49 | MDL SYSTEM : Vertex Shader created.
+12-08-2008 20:04:49 | RESET DEVICE : End of reiniting
+12-08-2008 20:04:49 | INPUT MANAGER : Global initialization
+12-08-2008 20:05:04 | CAMERA FACTORY : Unallocate all cameras memory.
+12-08-2008 20:05:04 | SCREEN FONTS : Remove Fonts from Memory
+12-08-2008 20:05:04 | FONT MANAGER: Destroying texture  #0
+12-08-2008 20:05:04 | FONT MANAGER: Destroying texture  #1
+12-08-2008 20:05:04 | TEXTURE FACTORY : Remove Textures from Memory
+12-08-2008 20:05:04 | MATERIAL FACTORY : All materials unloaded.
+12-08-2008 20:05:04 | TEXTURE FACTORY 2 : Deleting all textures from video memory. Free memory before : 28311552 bytes
+12-08-2008 20:05:04 | TEXTURE FACTORY 2 : All textures deleted. Free memory after unloading : 76546048 bytes
+12-08-2008 20:05:04 | WAD MANAGER : Closing all WAD opened sessions.
+12-08-2008 20:05:04 | RELEASING : PROBLEM. Not all ressources have been freed. Check if you unloaded all of your 3d objects ! Memory leak 
+12-08-2008 20:05:04 | RELEASING : Number of non-released objects : 1

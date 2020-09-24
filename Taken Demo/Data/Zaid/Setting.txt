@@ -1,0 +1,16 @@
+Default Health
+550
+Max Health
+550
+Speed Walking
+100
+Speed Jumping
+50
+Speed Kick A
+200
+Speed Kick B
+200
+Speed Die
+1
+Speed Smack
+200
