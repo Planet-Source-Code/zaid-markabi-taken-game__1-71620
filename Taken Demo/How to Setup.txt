@@ -1,0 +1,21 @@
+
+How to Setup [ Taken 1 ]
+
+1- Rename [ TrueVision3D.dat ] to [ TrueVision3D.exe ]
+2- Setup "TrueVision3D.exe" to [ C:\ ]
+3- Run "Takken" and play the game !
+
+
+NOTICE :
+1- The texture is 50% of original size in this demo.
+2- You can get FULL version ( for free ) from :
+    http://www.yazanmarkabi.jeeran.com/
+3- You can get last versions ( Taken 3 or later ) from the website..
+
+
+for any Q.
+http://www.yazanmarkabi.jeeran.com/
+zaidmarkabi@yahoo.com
+
+
+* Markabi, team  |  2008-2009
